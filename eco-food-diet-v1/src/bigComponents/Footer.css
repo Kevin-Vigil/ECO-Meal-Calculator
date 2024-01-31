@@ -1,0 +1,20 @@
+#footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 155px;
+  background-color: #101010;
+  border: 1px solid black;
+
+}
+
+#footer-box{
+  
+}
+
+#button-box{
+}
+#green-button{
+  width: 165px;
+  margin: auto;
+}

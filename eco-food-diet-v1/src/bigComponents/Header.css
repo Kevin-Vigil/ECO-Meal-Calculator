@@ -1,0 +1,33 @@
+#header{
+  background: #23281B; 
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#header-box{
+  align-items: center;
+  align-self: center;
+  justify-content: center;
+  margin: auto;
+}
+
+#header-home-box{
+  text-decoration: none;
+  justify-self: center;
+  
+}
+
+
+#home-box-text{
+  color: white;
+  text-decoration-line: none;
+  transition: all 0.5s ease-in-out;
+}
+#home-box-text:hover{
+  text-decoration-line: underline;
+  transition: all 0.5s ease-in-out;
+}
